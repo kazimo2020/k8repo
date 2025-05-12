@@ -1,1 +1,2 @@
 This is commit from local vm to azure vm on remort git repo
+reset 2
